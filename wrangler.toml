@@ -1,4 +1,4 @@
-name = "insight-hunter-demo"
+name = "insight-hunter"
 pages_build_output_dir = "./dist"      # Vite build output
 compatibility_date = "2024-11-12"      # keep in sync with your scripts
 # compatibility_flags = ["nodejs_compat"]  # uncomment if you need Node built-ins
